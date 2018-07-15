@@ -1,3 +1,7 @@
+# Projects I built to learn React basics
+
+- - -
+
 ## [1. Meal Voter](https://usheninte.github.io/meal-voter/index.html)
 
 > React State Project     
@@ -13,3 +17,9 @@
 > [View Source Code](https://github.com/Usheninte/FriendLy)     
 
 - - -
+
+## [3. React AJAX](#)
+
+> React AJAX Requests Practice
+> [View Demo](#)
+> [View Source Code](#)
