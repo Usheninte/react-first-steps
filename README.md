@@ -33,3 +33,5 @@
 > [View Source Code](https://github.com/Usheninte/react-forms)     
 
 - - -
+
+[Usheninte &copy 2018](http://about.me/usheninte)
