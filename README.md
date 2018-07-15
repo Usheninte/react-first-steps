@@ -18,8 +18,10 @@
 
 - - -
 
-## [3. React AJAX](#)
+## [3. React AJAX](https://usheninte.github.io/react-ajax/fetch.html)
 
-> React AJAX Requests Practice
-> [View Demo](#)
-> [View Source Code](#)
+> React AJAX Requests Practice     
+> [View Demo](https://usheninte.github.io/react-ajax/fetch.html)     
+> [View Source Code](https://github.com/Usheninte/react-ajax)     
+
+- - -
