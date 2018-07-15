@@ -6,7 +6,7 @@
 
 - - -
 
-## [2. FriendLy](#)
+## [2. FriendLy](https://usheninte.github.io/FriendLy/index4.html)
 
 > React Component Building & Styling Practice      
 > [View Final Demo](https://usheninte.github.io/FriendLy/index4.html)     
