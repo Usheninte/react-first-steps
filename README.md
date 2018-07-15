@@ -34,4 +34,4 @@
 
 - - -
 
-[Usheninte &copy 2018](http://about.me/usheninte)
+[Usheninte &copy; 2018](http://about.me/usheninte)
