@@ -12,7 +12,7 @@
 
 > Github Pages repo for Dummy React App      
 > [View Demo](https://usheninte.github.io/dummy-react/)     
-> [View Source Code](#)     
+> [View Source Code](https://github.com/Usheninte/dummy-react/tree/master)     
 
 - - -
 
