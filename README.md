@@ -11,7 +11,7 @@
 ## [2. Basic React App](#)
 
 > Github Pages repo for Dummy React App      
-> [View Demo](#)     
+> [View Demo](https://usheninte.github.io/dummy-react/)     
 > [View Source Code](#)     
 
 - - -
