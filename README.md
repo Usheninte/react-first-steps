@@ -10,7 +10,9 @@
 
 ## [2. Basic React App](#)
 
-> _Work In Progress_     
+> Github Pages repo for Dummy React App      
+> [View Demo](#)     
+> [View Source Code](#)     
 
 - - -
 
