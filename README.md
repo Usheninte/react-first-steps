@@ -10,7 +10,9 @@
 
 ## [2. React Tutorial](#)
 
-> _Work In Progress_     
+> A simple tic-tac-toe React game     
+> [View Demo]()     
+> [View Source Code]()     
 
 - - -
 
