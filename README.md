@@ -8,17 +8,17 @@
 
 - - -
 
-## [2. Basic React App](https://usheninte.github.io/dummy-react/)
+## [2. React Tutorial](#)
+
+> _Work In Progress_     
+
+- - -
+
+## [3. Basic React App](https://usheninte.github.io/dummy-react/)
 
 > Github Pages repo for Dummy React App      
 > [View Demo](https://usheninte.github.io/dummy-react/)     
 > [View Source Code](https://github.com/Usheninte/dummy-react/tree/master)     
-
-- - -
-
-## [3. React Tutorial](#)
-
-> _Work In Progress_     
 
 - - -
 
