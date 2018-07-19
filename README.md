@@ -8,11 +8,11 @@
 
 - - -
 
-## [2. React Tutorial](#)
+## [2. React Tutorial](https://usheninte.github.io/tic-tac-toe/)
 
 > A simple tic-tac-toe React game     
-> [View Demo]()     
-> [View Source Code]()     
+> [View Demo](https://usheninte.github.io/tic-tac-toe/)     
+> [View Source Code](https://github.com/Usheninte/tic-tac-toe/tree/master)     
 
 - - -
 
