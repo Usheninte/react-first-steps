@@ -2,13 +2,7 @@
 
 - - -
 
-## [1. Github Project](#)
-
-> _Work In Progress_     
-
-- - -
-
-## [2. React Tutorial](https://usheninte.github.io/tic-tac-toe/)
+## [1. React Tutorial](https://usheninte.github.io/tic-tac-toe/)
 
 > A simple tic-tac-toe React game     
 > [View Demo](https://usheninte.github.io/tic-tac-toe/)     
@@ -16,7 +10,7 @@
 
 - - -
 
-## [3. Basic React App](https://usheninte.github.io/dummy-react/)
+## [2. Basic React App](https://usheninte.github.io/dummy-react/)
 
 > Github Pages repo for Dummy React App      
 > [View Demo](https://usheninte.github.io/dummy-react/)     
@@ -24,7 +18,7 @@
 
 - - -
 
-## [4. Meal Voter](https://usheninte.github.io/meal-voter/index.html)
+## [3. Meal Voter](https://usheninte.github.io/meal-voter/index.html)
 
 > React State Project     
 > [View Demo](https://usheninte.github.io/meal-voter/index.html)     
@@ -32,7 +26,7 @@
 
 - - -
 
-## [5. FriendLy](https://usheninte.github.io/FriendLy/index4.html)
+## [4. FriendLy](https://usheninte.github.io/FriendLy/index4.html)
 
 > React Component Building & Styling Practice      
 > [View Final Demo](https://usheninte.github.io/FriendLy/index4.html)     
@@ -40,7 +34,7 @@
 
 - - -
 
-## [6. React AJAX](https://usheninte.github.io/react-ajax/fetch.html)
+## [5. React AJAX](https://usheninte.github.io/react-ajax/fetch.html)
 
 > React AJAX Requests Practice     
 > [View Demo](https://usheninte.github.io/react-ajax/fetch.html)     
@@ -48,7 +42,7 @@
 
 - - -
 
-## [7. React Forms](https://usheninte.github.io/react-forms/form.html )
+## [6. React Forms](https://usheninte.github.io/react-forms/form.html )
 
 > React Forms Practice     
 > [View Demo](https://usheninte.github.io/react-forms/form.html )     
